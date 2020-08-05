@@ -24,3 +24,5 @@ Route::view('/principal', 'principal')->name('principal');
 Route::view('/about', 'about')->name('about');
 Route::view('/portafolio', 'portafolio')->name('portafolio');
 Route::view('/extra', 'extra')->name('extra');
+
+Route::post('extra', 'controladorloco@store');

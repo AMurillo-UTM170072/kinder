@@ -1,5 +1,5 @@
 @extends('plantilla')
 
 @section('navegar')
-    <h1>contenido</h1>
+    <h1>pagina principal</h1>
 @endsection
