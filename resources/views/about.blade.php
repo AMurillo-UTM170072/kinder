@@ -1,5 +1,5 @@
-@extends('plantilla')
+@extends('layouts.app')
 
-@section('navegar')
+@section('content')
     <h1>about</h1>
 @endsection
